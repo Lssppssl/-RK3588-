@@ -10,3 +10,9 @@
 ## PPP拨号
 通过网盘分享的文件：ppp.7z
 链接: https://pan.baidu.com/s/17qsXLoFEVwdsw4iqMxXdyQ 提取码: 5mhy
+## qt界面开发百度网盘链接
+通过网盘分享的文件：QT_3588.zip
+链接: https://pan.baidu.com/s/1s8yh3brDxEG_O7_lwkj6bQ 提取码: it94
+关键算法涉及商业用途暂不开源
+
+
