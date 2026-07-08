@@ -1,0 +1,9 @@
+abort on (ERROR)
+abort on (NO DIALTONE)
+
+Sending break to the modem
+send (k"^M)
+send (+++ATH"^M)
+
+Good bay
+
